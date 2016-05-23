@@ -1,0 +1,284 @@
+
+
+/* <!--Start page`s container --> */
+/* <!--Start page`s header --> */
+body {
+	background-color: #181E24;
+	height: 100%
+}
+.header {
+	height: 100px;
+	background-color: white;
+}
+.logo {
+	height: 100px;
+	background-image: url("./img/logo.jpg");
+	background-repeat: no-repeat;
+	margin: 25px 0px 0 0px;
+}
+.menu {
+	height: 100px;
+	font-size: 14px;
+	margin: 25px 0 0 0px;
+}
+.menu li {	
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.login {
+	height: 100px;
+	font-size: 14px;
+	margin: 25px 0px 0 0px;
+
+}
+.login li {
+    margin-left: -12px;
+    margin-right: -12px;
+}
+.search {
+	margin-top: 18px;
+}
+/* <!--End page`s header --> */
+
+
+/* <!--Start page`s content1 --> */
+.left {
+	background-image: url("./img/old-car-wallpaper.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 400px;
+	color: white;
+}
+.left h4 {
+	color: #fa6000 !important;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.left h5 {
+	font-family: "Arial", Gadget, sans-serif;
+	font-size: 18px;
+
+}
+.right {
+	background-image: url("./img/FlameBaku.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 400px;
+	color: white;
+	font-family: "Arial", Gadget, sans-serif;
+	font-size: 16px;
+}
+.weather {
+	background-image: url("./img/storm.png");
+	background-repeat: no-repeat;
+	background-size: 70% 100%;
+	height: 150px;
+	margin-left: 70px;
+	margin-top: 100px;
+}
+.line {
+	background-color: #847F7B;
+	height: 5px;
+}
+.lineRed {
+	background-color: #E8072F;
+	height: 5px;
+}
+/* <!--End page`s content1 --> */
+
+/* <!--Start 1-4 pictures --> */
+.picture1 {
+	background-image: url("./img/bussinesLunch.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 250px;
+	height: 250px;
+	color: white;
+}
+.picture1Text h4 {
+	border-bottom: 3px solid #d6a30a;
+	width: 85px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: "Arial", Gadget, sans-serif;
+}
+.picture1Text p {
+	margin: 170px 0 0 15px;
+	font-size: 18px;
+}
+.picture2 {
+	background-image: url("./img/futbol.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 250px;
+	height: 250px;
+	color: white;
+}
+.picture2Text h4 {
+	border-bottom: 3px solid #d6a30a;
+	width: 65px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: "Arial", Gadget, sans-serif;
+}
+.picture2Text p {
+	margin: 170px 0 0 15px;
+	font-size: 18px;
+}
+.picture3 {
+	background-image: url("./img/fashion2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 250px;
+	height: 250px;
+	color: white;
+}
+.picture3Text h4 {
+	border-bottom: 3px solid #d6a30a;
+	width: 75px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: "Arial", Gadget, sans-serif;
+}
+.picture3Text p {
+	margin: 170px 0 0 15px;
+	font-size: 18px;
+}
+.picture4 {
+	background-image: url("./img/eros-ramazzotti.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 250px;
+	height: 250px;
+	color: white;
+}
+.picture4Text h4 {
+	border-bottom: 3px solid #d6a30a;
+	width: 130px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: "Arial", Gadget, sans-serif;
+}
+.picture4Text p {
+	margin: 170px 0 0 15px;
+	font-size: 18px;
+}
+/* <!--End 1-4 pictures --> */
+
+
+/* <!--Start page`s content2 --> */
+.content2Menu {
+	background-color: black;
+	height: 40px;
+}
+.content2Menu li a {
+	color: white;
+}
+.newsOrange a {
+	color: #fa6000 !important;
+}
+/* <!--End page`s content2 --> */
+
+/* <!--Start page`s videoNews --> */
+.video {
+	background-color: black;
+	height: 600px;
+}
+.news {
+	background-color: black;
+	height: 600px;
+	color: #fa6000;
+}
+.newsText p {
+	line-height: 35px;
+	font-size: 16px;
+	font-family: "Arial", Gadget, sans-serif;
+}
+.newsText h5 {
+	float: right;
+	margin-top: -5px;
+	color: #808080;
+}
+/* <!--End page`s videoNews --> */
+
+/* <!--Start 5-12 pictures --> */
+.picture5 {
+	background-image: url("./img/grand_hyatt.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 300px;
+	height: 300px;
+}
+.picture6 {
+	background-image: url("./img/backfon.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 300px;
+	height: 300px;
+}
+.picture7 {
+	background-image: url("./img/mount.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 300px;
+	height: 300px;
+}
+.picture8 {
+	background-image: url("./img/backfon.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 300px;
+	height: 300px;
+}
+.picture9 {
+	background-image: url("./img/backfon.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 300px;
+	height: 300px;
+}
+.picture10 {
+	background-image: url("./img/meals.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 300px;
+	height: 300px;
+}
+.picture11 {
+	background-image: url("./img/backfon.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 300px;
+	height: 300px;
+}
+.picture12 {
+	background-image: url("./img/ps4.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 300px;
+	height: 300px;
+}
+
+/* <!--Start 5-12 pictures Text--> */
+.pictureText h5 {
+	margin: 15px 0 0 15px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.pictureText h4 {
+	color: #d6a30a;
+	border-bottom: 2px solid #d6a30a;
+	width: 80px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: Times;
+}
+.pictureText p {
+	margin: 15px;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 13px;
+}
+.pictureText p:nth-child(4) {
+	color: #d6a30a;
+}
+/* <!--End 5-12 pictures Text--> */
+/* <!--End 5-12 pictures --> */
+
+/* <!--Start page`s footer --> */
+.footer {
+	background: #4E443E;
+	height: 50px;
+}
+.footerBorder {
+	background-color: #181E24;
+	height: 400px;
+}
+/* <!--End page`s footer --> */
+/* <!--End page`s container --> */
